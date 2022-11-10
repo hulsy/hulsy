@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hulsy
-- 👀 I’m interested in web dev, learning new languages
+- 👀 I’m interested in web dev, learning new languages, databases, game dev
 - 🌱 I’m currently learning computer programming at Algonquin College, mainly Java atm.
 - 💞️ I’m looking to collaborate on ... anything really
-- 📫 How to reach me ... message me on discord @Lowtown
+- 📫 How to reach me ... message me on discord @Lowtown #7979
 
 <!---
 hulsy/hulsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
